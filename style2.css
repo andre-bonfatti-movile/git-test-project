@@ -8,4 +8,8 @@ body {
 
 span {
   background-color: white;
-}  
+}
+
+p {
+  font-size: 1em;
+}
